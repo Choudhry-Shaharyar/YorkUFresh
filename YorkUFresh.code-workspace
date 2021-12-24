@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "..\\YorkFresh\\images"
+		},
+		{
+			"name": "YorkUFresh",
+			"path": "."
+		},
+		{
+			"name": "static",
+			"path": "..\\YorkFresh\\static"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "YorkUFresh"
+	}
+}
